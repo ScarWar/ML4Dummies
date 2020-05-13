@@ -21,6 +21,6 @@ A short introductory tutorial on practical ML algorithms for beginners
     e.  Dense, Conv, RNN  
 6.  Summery  
     a.  Real world examples  
-        1) YOLO
-        2) BERT
+        1) YOLO  
+        2) BERT  
         3) Deepfake (GANs)
